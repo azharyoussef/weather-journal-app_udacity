@@ -1,6 +1,7 @@
 Weather-Journal App Project
 
 Table of Contents
+
  - Introduction
  - The project environment
  - Required steps
@@ -8,9 +9,11 @@ Table of Contents
  - Author
 
  Introduction
+ 
  This project requires to create an asynchronous web app that uses Web API and user data to dynamically update the UI for a Weather-Journal App.
 
 The project environment
+
 This project needs the following packages to be installed:
  - Node.js
  - Express
