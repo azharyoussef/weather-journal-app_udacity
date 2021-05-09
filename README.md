@@ -6,6 +6,7 @@ Table of Contents
  - The project environment
  - Required steps
  - Resources used
+ - App Interface
  - Author
 
  Introduction
@@ -29,6 +30,11 @@ Resources ssed:
 - https://openweathermap.org/ 
   It is used to get the personal API key and url
 - Udacity videos to make use of the codes in the current project.
+
+App Interface:
+
+![App Interface_balnk](https://github.com/azharyoussef/Weather-Journal-App_Udacity/blob/master/App%20interface%20raw.PNG)
+![App Interface](https://github.com/azharyoussef/Weather-Journal-App_Udacity/blob/master/App%20interface%201.PNG)
 
  Author:
  Azhar Youssef
