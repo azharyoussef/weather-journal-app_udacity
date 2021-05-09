@@ -1,4 +1,4 @@
-#Weather-Journal App Project#
+# Weather-Journal App Project
 
 Table of Contents
 
