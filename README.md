@@ -39,6 +39,7 @@ This project needs the following packages to be installed:
 
 ![App Interface](https://github.com/azharyoussef/Weather-Journal-App_Udacity/blob/master/App%20interface%201.PNG)
 
-### **Author**
+### **Author:**
  
- Azhar Youssef
+ Azhar Youssef, Egypt
+ 
