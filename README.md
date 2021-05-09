@@ -1,6 +1,6 @@
 # Weather-Journal App Project
 
-Table of Contents
+## Table of Contents
 
  - Introduction
  - The project environment
